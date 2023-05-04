@@ -8,7 +8,8 @@ This repository contains the source code of Load-Step -- a prototype design of t
 >
 > [PDF](https://ieeexplore.ieee.org/abstract/document/9586226)
 
-> Acknowledged by MbedTLS as [high severity](https://tls.mbed.org/tech-updates/security-advisories/mbedtls-security-advisory-2020-09-2).
+> Acknowledged by MbedTLS as [high severity](https://mbed-tls.readthedocs.io/en/latest/tech-updates/security-advisories/mbedtls-security-advisory-2020-09-2/).
+> Issued by [CVE-2021-36647](https://www.cve.org/CVERecord?id=CVE-2021-36647).
 
 ### Abstract
 
